@@ -2,7 +2,7 @@
 
 **Spatial Data Analyst · GIS Graduate · Open to Relocation**
 
-📍 Brisbane, AU &nbsp;·&nbsp; 📧 kaseralipi26@gmail.com &nbsp;·&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/lipi-kasera) &nbsp;·&nbsp; 🌐 [lipikasera.github.io](https://lipikasera.github.io)
+📍 Brisbane, AU &nbsp;·&nbsp; 📧 kaseralipi26@gmail.com &nbsp;·&nbsp; 🔗 [LinkedIn](https://linkedin.com/in/lipi-k) &nbsp;·&nbsp; 🌐 [lipikasera.github.io](https://lipikasera.github.io)
 
 ---
 
@@ -22,7 +22,7 @@ I hold full Australian work rights on a 485 visa and am open to relocation for t
 
 | # | Project | Tools | Key Output |
 |---|---------|-------|------------|
-| 01 | **Geological Mapping & Rock Age Analysis** | ArcGIS Pro · Spatial Analysis · Data QA | 8–10 maps · 10,000+ records processed |
+| 01 | **Geological Mapping & Rock Age Analysis** | ArcGIS Pro · Spatial Analysis · Data QA | 8 maps · 10,000+ records processed |
 | 02 | **Flinders Beach Coastal Hazard Assessment** | ArcGIS Pro · Coastal Modelling · Monte Carlo | Probabilistic shoreline change report |
 | 03 | **Flood Risk Analysis — West End, Brisbane** | ArcGIS Pro · Urban Design · Risk Modelling | 5-tier infrastructure risk classification |
 | 04 | **Coral Bleaching Levels — Philippines & SE Asia** | ArcGIS Online · Environmental GIS · Marine Spatial | Bleaching severity map (scale 0–4) |
@@ -47,5 +47,5 @@ I hold full Australian work rights on a 485 visa and am open to relocation for t
 I'm actively seeking graduate GIS, spatial analyst, and GIS consultant roles across Australia.
 
 📧 kaseralipi26@gmail.com  
-🔗 [linkedin.com/in/lipi-kasera](https://linkedin.com/in/lipi-kasera)  
+🔗 [linkedin.com/in/lipi-k](https://linkedin.com/in/lipi-k)  
 📞 0449 015 197
